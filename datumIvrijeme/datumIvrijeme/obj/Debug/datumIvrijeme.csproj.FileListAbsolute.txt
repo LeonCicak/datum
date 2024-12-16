@@ -1,0 +1,10 @@
+C:\Users\Učenik\source\repos\datumIvrijeme\datumIvrijeme\obj\Debug\datumIvrijeme.csproj.AssemblyReference.cache
+C:\Users\Učenik\source\repos\datumIvrijeme\datumIvrijeme\obj\Debug\datumIvrijeme.Form1.resources
+C:\Users\Učenik\source\repos\datumIvrijeme\datumIvrijeme\obj\Debug\datumIvrijeme.Properties.Resources.resources
+C:\Users\Učenik\source\repos\datumIvrijeme\datumIvrijeme\obj\Debug\datumIvrijeme.csproj.GenerateResource.cache
+C:\Users\Učenik\source\repos\datumIvrijeme\datumIvrijeme\obj\Debug\datumIvrijeme.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\source\repos\datumIvrijeme\datumIvrijeme\bin\Debug\datumIvrijeme.exe.config
+C:\Users\Učenik\source\repos\datumIvrijeme\datumIvrijeme\bin\Debug\datumIvrijeme.exe
+C:\Users\Učenik\source\repos\datumIvrijeme\datumIvrijeme\bin\Debug\datumIvrijeme.pdb
+C:\Users\Učenik\source\repos\datumIvrijeme\datumIvrijeme\obj\Debug\datumIvrijeme.exe
+C:\Users\Učenik\source\repos\datumIvrijeme\datumIvrijeme\obj\Debug\datumIvrijeme.pdb
